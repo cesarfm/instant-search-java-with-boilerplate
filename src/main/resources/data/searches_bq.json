@@ -1,0 +1,527 @@
+[
+  {
+    "query": "ps5",
+    "requestCount": 12458,
+    "productIds": ["P789234", "P789235", "P789236", "P789237"]
+  },
+  {
+    "query": "wireless headphones bluetooth",
+    "requestCount": 8765,
+    "productIds": ["P123456", "P123457", "P123458"]
+  },
+  {
+    "query": "nike",
+    "requestCount": 23456,
+    "productIds": ["P234567", "P234568", "P234569", "P234570", "P234571"]
+  },
+  {
+    "query": "iphone new",
+    "requestCount": 15678,
+    "productIds": ["P345678", "P345679"]
+  },
+  {
+    "query": "new iphone",
+    "requestCount": 14567,
+    "productIds": ["P345678", "P345679"]
+  },
+  {
+    "query": "dog toys",
+    "requestCount": 7654,
+    "productIds": ["P456789", "P456790", "P456791", "P456792"]
+  },
+  {
+    "query": "samsung galaxy s23 ultra case",
+    "requestCount": 4567,
+    "productIds": ["P567890", "P567891"]
+  },
+  {
+    "query": "books",
+    "requestCount": 34567,
+    "productIds": ["P678901", "P678902", "P678903"]
+  },
+  {
+    "query": "gaming laptop",
+    "requestCount": 9876,
+    "productIds": ["P789012", "P789013", "P789014"]
+  },
+  {
+    "query": "christmas decorations",
+    "requestCount": 19876,
+    "productIds": ["P890123", "P890124", "P890125"]
+  },
+  {
+    "query": "airpods pro",
+    "requestCount": 28765,
+    "productIds": ["P901234"]
+  },
+  {
+    "query": "kindle paperwhite",
+    "requestCount": 6543,
+    "productIds": ["P012345", "P012346"]
+  },
+  {
+    "query": "winter boots women",
+    "requestCount": 11234,
+    "productIds": ["P123567", "P123568", "P123569"]
+  },
+  {
+    "query": "boots winter women",
+    "requestCount": 9876,
+    "productIds": ["P123567", "P123568", "P123569"]
+  },
+  {
+    "query": "protein powder",
+    "requestCount": 15678,
+    "productIds": ["P234678", "P234679", "P234680"]
+  },
+  {
+    "query": "vacuum cleaner",
+    "requestCount": 8765,
+    "productIds": ["P345789", "P345790"]
+  },
+  {
+    "query": "cleaner vacuum",
+    "requestCount": 5432,
+    "productIds": ["P345789", "P345790"]
+  },
+  {
+    "query": "lego",
+    "requestCount": 45678,
+    "productIds": ["P456890", "P456891", "P456892", "P456893"]
+  },
+  {
+    "query": "monitor 4k",
+    "requestCount": 7654,
+    "productIds": ["P567901", "P567902"]
+  },
+  {
+    "query": "4k monitor",
+    "requestCount": 8765,
+    "productIds": ["P567901", "P567902"]
+  },
+  {
+    "query": "chair gaming",
+    "requestCount": 12345,
+    "productIds": ["P678012", "P678013"]
+  },
+  {
+    "query": "gaming chair",
+    "requestCount": 13456,
+    "productIds": ["P678012", "P678013"]
+  },
+  {
+    "query": "coffee maker",
+    "requestCount": 9876,
+    "productIds": ["P789123", "P789124"]
+  },
+  {
+    "query": "xbox series x",
+    "requestCount": 18765,
+    "productIds": ["P890234", "P890235"]
+  },
+  {
+    "query": "nintendo switch oled",
+    "requestCount": 16543,
+    "productIds": ["P901345"]
+  },
+  {
+    "query": "water bottle",
+    "requestCount": 6789,
+    "productIds": ["P012456", "P012457", "P012458"]
+  },
+  {
+    "query": "cat food",
+    "requestCount": 23456,
+    "productIds": ["P123678", "P123679", "P123680"]
+  },
+  {
+    "query": "yoga mat",
+    "requestCount": 5678,
+    "productIds": ["P234789", "P234790"]
+  },
+  {
+    "query": "air fryer xl",
+    "requestCount": 13456,
+    "productIds": ["P345890", "P345891"]
+  },
+  {
+    "query": "xl air fryer",
+    "requestCount": 11234,
+    "productIds": ["P345890", "P345891"]
+  },
+  {
+    "query": "laptop",
+    "requestCount": 54321,
+    "productIds": ["P456901", "P456902", "P456903", "P456904"]
+  },
+  {
+    "query": "smart watch",
+    "requestCount": 28765,
+    "productIds": ["P567012", "P567013"]
+  },
+  {
+    "query": "watch smart",
+    "requestCount": 21234,
+    "productIds": ["P567012", "P567013"]
+  },
+  {
+    "query": "camera dslr",
+    "requestCount": 7654,
+    "productIds": ["P678123", "P678124"]
+  },
+  {
+    "query": "dslr camera",
+    "requestCount": 8765,
+    "productIds": ["P678123", "P678124"]
+  },
+  {
+    "query": "amazon echo",
+    "requestCount": 15678,
+    "productIds": ["P789234"]
+  },
+  {
+    "query": "headphones noise cancelling",
+    "requestCount": 19876,
+    "productIds": ["P890345", "P890346"]
+  },
+  {
+    "query": "noise cancelling headphones",
+    "requestCount": 21234,
+    "productIds": ["P890345", "P890346"]
+  },
+  {
+    "query": "printer",
+    "requestCount": 12345,
+    "productIds": ["P901456", "P901457"]
+  },
+  {
+    "query": "fitbit",
+    "requestCount": 16543,
+    "productIds": ["P012567"]
+  },
+  {
+    "query": "bluetooth speaker",
+    "requestCount": 23456,
+    "productIds": ["P123789", "P123790"]
+  },
+  {
+    "query": "speaker bluetooth",
+    "requestCount": 19876,
+    "productIds": ["P123789", "P123790"]
+  },
+  {
+    "query": "sd card",
+    "requestCount": 8765,
+    "productIds": ["P234890"]
+  },
+  {
+    "query": "mouse wireless",
+    "requestCount": 11234,
+    "productIds": ["P345901", "P345902"]
+  },
+  {
+    "query": "wireless mouse",
+    "requestCount": 13456,
+    "productIds": ["P345901", "P345902"]
+  },
+  {
+    "query": "keyboard mechanical",
+    "requestCount": 9876,
+    "productIds": ["P456012", "P456013"]
+  },
+  {
+    "query": "mechanical keyboard",
+    "requestCount": 11234,
+    "productIds": ["P456012", "P456013"]
+  },
+  {
+    "query": "tablet samsung",
+    "requestCount": 7654,
+    "productIds": ["P567123", "P567124"]
+  },
+  {
+    "query": "samsung tablet",
+    "requestCount": 8765,
+    "productIds": ["P567123", "P567124"]
+  },
+  {
+    "query": "router wifi",
+    "requestCount": 6543,
+    "productIds": ["P678234", "P678235"]
+  },
+  {
+    "query": "wifi router",
+    "requestCount": 7654,
+    "productIds": ["P678234", "P678235"]
+  },
+  {
+    "query": "ssd 1tb",
+    "requestCount": 12345,
+    "productIds": ["P789345", "P789346"]
+  },
+  {
+    "query": "1tb ssd",
+    "requestCount": 13456,
+    "productIds": ["P789345", "P789346"]
+  },
+  {
+    "query": "gopro",
+    "requestCount": 18765,
+    "productIds": ["P890456"]
+  },
+  {
+    "query": "watch apple",
+    "requestCount": 28765,
+    "productIds": ["P901567"]
+  },
+  {
+    "query": "apple watch",
+    "requestCount": 31234,
+    "productIds": ["P901567"]
+  },
+  {
+    "query": "drone",
+    "requestCount": 15678,
+    "productIds": ["P012678", "P012679"]
+  },
+  {
+    "query": "coffee beans",
+    "requestCount": 9876,
+    "productIds": ["P123890", "P123891", "P123892"]
+  },
+  {
+    "query": "desk standing",
+    "requestCount": 7654,
+    "productIds": ["P234901", "P234902"]
+  },
+  {
+    "query": "standing desk",
+    "requestCount": 8765,
+    "productIds": ["P234901", "P234902"]
+  },
+  {
+    "query": "chair office ergonomic",
+    "requestCount": 11234,
+    "productIds": ["P345012", "P345013"]
+  },
+  {
+    "query": "monitor ultrawide",
+    "requestCount": 6543,
+    "productIds": ["P456123", "P456124"]
+  },
+  {
+    "query": "ultrawide monitor",
+    "requestCount": 7654,
+    "productIds": ["P456123", "P456124"]
+  },
+  {
+    "query": "macbook pro",
+    "requestCount": 34567,
+    "productIds": ["P567234", "P567235"]
+  },
+  {
+    "query": "camera security",
+    "requestCount": 13456,
+    "productIds": ["P678345", "P678346", "P678347"]
+  },
+  {
+    "query": "security camera",
+    "requestCount": 15678,
+    "productIds": ["P678345", "P678346", "P678347"]
+  },
+  {
+    "query": "earbuds",
+    "requestCount": 45678,
+    "productIds": ["P789456", "P789457", "P789458"]
+  },
+  {
+    "query": "keyboard wireless",
+    "requestCount": 8765,
+    "productIds": ["P890567", "P890568"]
+  },
+  {
+    "query": "wireless keyboard",
+    "requestCount": 9876,
+    "productIds": ["P890567", "P890568"]
+  },
+  {
+    "query": "printer laser",
+    "requestCount": 6543,
+    "productIds": ["P901678", "P901679"]
+  },
+  {
+    "query": "laser printer",
+    "requestCount": 7654,
+    "productIds": ["P901678", "P901679"]
+  },
+  {
+    "query": "battery pack",
+    "requestCount": 12345,
+    "productIds": ["P012789", "P012790"]
+  },
+  {
+    "query": "pack battery",
+    "requestCount": 11234,
+    "productIds": ["P012789", "P012790"]
+  },
+  {
+    "query": "camera webcam",
+    "requestCount": 15678,
+    "productIds": ["P123901", "P123902"]
+  },
+  {
+    "query": "webcam camera",
+    "requestCount": 13456,
+    "productIds": ["P123901", "P123902"]
+  },
+  {
+    "query": "charger wireless",
+    "requestCount": 19876,
+    "productIds": ["P234012", "P234013"]
+  },
+  {
+    "query": "wireless charger",
+    "requestCount": 21234,
+    "productIds": ["P234012", "P234013"]
+  },
+  {
+    "query": "microphone usb",
+    "requestCount": 8765,
+    "productIds": ["P345123", "P345124"]
+  },
+  {
+    "query": "usb microphone",
+    "requestCount": 9876,
+    "productIds": ["P345123", "P345124"]
+  },
+  {
+    "query": "watch fitness",
+    "requestCount": 16543,
+    "productIds": ["P456234", "P456235"]
+  },
+  {
+    "query": "fitness watch",
+    "requestCount": 18765,
+    "productIds": ["P456234", "P456235"]
+  },
+  {
+    "query": "cable hdmi",
+    "requestCount": 23456,
+    "productIds": ["P567345"]
+  },
+  {
+    "query": "hdmi cable",
+    "requestCount": 25678,
+    "productIds": ["P567345"]
+  },
+  {
+    "query": "fan portable",
+    "requestCount": 7654,
+    "productIds": ["P678456", "P678457"]
+  },
+  {
+    "query": "portable fan",
+    "requestCount": 8765,
+    "productIds": ["P678456", "P678457"]
+  },
+  {
+    "query": "light ring",
+    "requestCount": 11234,
+    "productIds": ["P789567", "P789568"]
+  },
+  {
+    "query": "ring light",
+    "requestCount": 13456,
+    "productIds": ["P789567", "P789568"]
+  },
+  {
+    "query": "speaker smart",
+    "requestCount": 15678,
+    "productIds": ["P890678", "P890679"]
+  },
+  {
+    "query": "smart speaker",
+    "requestCount": 17890,
+    "productIds": ["P890678", "P890679"]
+  },
+  {
+    "query": "mouse gaming",
+    "requestCount": 21234,
+    "productIds": ["P901789", "P901790"]
+  },
+  {
+    "query": "gaming mouse",
+    "requestCount": 23456,
+    "productIds": ["P901789", "P901790"]
+  },
+  {
+    "query": "headset gaming wireless",
+    "requestCount": 13456,
+    "productIds": ["P012890", "P012891"]
+  },
+  {
+    "query": "wireless gaming headset",
+    "requestCount": 15678,
+    "productIds": ["P012890", "P012891"]
+  },
+  {
+    "query": "camera action",
+    "requestCount": 9876,
+    "productIds": ["P123012", "P123013"]
+  },
+  {
+    "query": "action camera",
+    "requestCount": 11234,
+    "productIds": ["P123012", "P123013"]
+  },
+  {
+    "query": "gpu nvidia",
+    "requestCount": 28765,
+    "productIds": ["P234123", "P234124"]
+  },
+  {
+    "query": "nvidia gpu",
+    "requestCount": 31234,
+    "productIds": ["P234123", "P234124"]
+  },
+  {
+    "query": "drives ssd",
+    "requestCount": 16543,
+    "productIds": ["P345234", "P345235"]
+  },
+  {
+    "query": "ssd drives",
+    "requestCount": 18765,
+    "productIds": ["P345234", "P345235"]
+  },
+  {
+    "query": "tv smart",
+    "requestCount": 45678,
+    "productIds": ["P456345", "P456346"]
+  },
+  {
+    "query": "smart tv",
+    "requestCount": 48765,
+    "productIds": ["P456345", "P456346"]
+  },
+  {
+    "query": "cables usb c",
+    "requestCount": 13456,
+    "productIds": ["P567456"]
+  },
+  {
+    "query": "usb c cables",
+    "requestCount": 15678,
+    "productIds": ["P567456"]
+  },
+  {
+    "query": "laptop gaming",
+    "requestCount": 34567,
+    "productIds": ["P678567", "P678568"]
+  },
+  {
+    "query": "gaming laptop",
+    "requestCount": 37890,
+    "productIds": ["P678567", "P678568"]
+  }
+]
